@@ -1,5 +1,8 @@
 """
-Imagine creating a Python guessing game where you try to guess a number between 1 and 100. Describe the method that returns the method's feedback, such as "Too low! Try again" if the guessed number is less than the secret number or "Try too much" if the guess is too high.
+Imagine creating a Python guessing game where you try to guess a number between 1 and 100.
+Describe the method that returns the method's feedback,
+such as "Too low! Try again" if the guessed number is less than the secret number 
+or "Try too much" if the guess is too high.
 """
 
 import random
